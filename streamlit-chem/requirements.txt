@@ -1,5 +1,5 @@
 streamlit==1.39.0
-rdkit-pypi==2023.9.5
+rdkit-pypi==2022.9.5
 numpy
 pillow
 requests
@@ -8,4 +8,5 @@ py3Dmol
 stmol
 ipywidgets
 traitlets
+
 jupyterlab-widgets
